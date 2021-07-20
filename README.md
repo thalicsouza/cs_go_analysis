@@ -21,4 +21,5 @@ SQL
 - general_queries.sql: todas as queries utilizadas para responder às perguntas do teste  
 - GC_case.ipynb: notebook utilizado na construção do modelo preditivo
 - Final_GradientBoosting_Classifier_jul21.pkl: arquivo que armazena o modelo validado
+- Estudo de caso.pdf: pdf da apresentação com o resumo do trabalho
 
